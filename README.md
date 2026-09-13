@@ -1,6 +1,20 @@
 # ServerManagement
 
-🇬🇧 EN: Server management via RCON from a PC or phone  
-🇷🇺 RU: Управление сервером через RCON с ПК или телефона
+🇬🇧 Server management via RCON from a PC or phone  
+🇷🇺 Управление сервером через RCON с ПК или телефона
 
-### 📚 [Read FAQ / Читать FAQ](FAQ.md)
+  **🇬🇧 Supports / 🇷🇺 Поддержка**
+  <br>
+
+* CS:Sv34, CS:S, CS:GO, CS2
+* TF2
+* L4D1, L4D2
+* Minecraft
+* ARK: Survival Evolved
+* Project Zomboid Multiplayer
+* Palworld
+
+🇬🇧 Potentially other Source-based RCON implementations (untested)  
+🇷🇺 Возможно, другие реализации RCON для движка Source (не тестировались)
+
+### 📚 [🇬🇧 Read FAQ / 🇷🇺 Читать FAQ](FAQ.md)
