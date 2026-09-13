@@ -1,5 +1,5 @@
 <details>
-  <summary><b>🇬🇧 EN | Example of adding a new command</b></summary>
+  <summary><b>🇬🇧 Example of adding a new command</b></summary>
   <br>
 
   Create 3 new input fields for the details:
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary><b>🇷🇺 RU | Пример добавления новых команд</b></summary>
+  <summary><b>🇷🇺 Пример добавления новых команд</b></summary>
   <br>
 
   Создадутся 3 новых поля для ввода значений:
