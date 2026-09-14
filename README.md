@@ -18,3 +18,5 @@
 🇷🇺 Возможно, другие реализации RCON для движка Source (не тестировались)
 
 ### 📚 [🇬🇧 Read FAQ / 🇷🇺 Читать FAQ](FAQ.md)
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KiKiEEKi/ServerManagement/total?style=for-the-badge&color=019b01)
