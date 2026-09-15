@@ -4,7 +4,7 @@
 🇷🇺 Управление сервером через RCON с ПК или Телефона
 
 <details>
-  <summary>1<b>🇬🇧 Screenshots / 🇷🇺 Скриншоты</b></summary>
+  <summary>🖼️ <b>🇬🇧 Screenshots / 🇷🇺 Скриншоты</b></summary>
   <br>
 <img width="362" height="672" alt="1" src="https://github.com/user-attachments/assets/224415ea-4c7f-4176-945f-6f325422d54d" />
 <img width="362" height="672" alt="2" src="https://github.com/user-attachments/assets/8ebb90d6-b11c-4986-a117-d6ff6b0bbfc4" />
